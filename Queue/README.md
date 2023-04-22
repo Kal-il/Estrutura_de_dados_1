@@ -1,8 +1,11 @@
-•Para compilar o programa use:
+Para compilar o programa use:
 
-    $ gcc queue.c main.c
+    gcc queue.c main.c
 
-•Para rodar:
+Para rodar:
 
-    $ ./a.exe (windows)
-    $ ./a.out (ubuntu)
+        ./a.out
+        
+Ou (windows):
+
+        ./a.exe
