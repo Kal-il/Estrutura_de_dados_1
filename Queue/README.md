@@ -4,8 +4,8 @@ Para compilar o programa use:
 
 Para rodar:
 
-        ./a.out
+    ./a.out
         
 Ou (windows):
 
-        ./a.exe
+    ./a.exe
