@@ -1,2 +1,2 @@
 # Estrutura_de_dados_1
-Nesse repositório estou postando alguns códigos em linguagem c, que fiz durante meu segundo periodo na faculdade, na matéria de estrutura de dados 1.
+Neste repositório estou postando algumas estruturas de dados que implementei em linguagem c durante o meu segundo periodo na faculdade, na matéria de estrutura de dados 1.
